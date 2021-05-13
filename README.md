@@ -9,7 +9,7 @@ To make new world in particular a room in this case, go to Building Editor -> Cr
 
 SLAM Gmapping was tried here with the custom world. The map can be viewed in the map folder.<br>
 
-# MAP OF CUSTOM WORLD
+## MAP OF CUSTOM WORLD
 <img width="500" height= "300" src="map/map.png"/>
 
 
